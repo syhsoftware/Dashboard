@@ -1,0 +1,15 @@
+/* // =====================================================================
+// ARCHIVO: src/index.css
+// ---------------------------------------------------------------------
+// Reemplaza el contenido por defecto. Tailwind v4 se importa con UNA
+// línea; el resto define el modo oscuro del panel.
+// ===================================================================== */
+@import "tailwindcss";
+
+/* Estilos base: modo oscuro del panel */
+body {
+  margin: 0;
+  background-color: #0b0f17;
+  color: #cbd5e1;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
